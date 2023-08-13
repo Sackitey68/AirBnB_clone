@@ -1,3 +1,4 @@
 #!/usr/bin/python3
 
-print("A beautiful code that passes the pycodestyle check")
+def add(a, b):
+    return a + b
